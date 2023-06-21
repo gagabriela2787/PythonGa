@@ -1,1 +1,5 @@
 https://www.freecodecamp.org/espanol/news/11-proyectos-de-python-que-los-desarrolladores-junior-pueden-crear-para-practicar/
+
+
+
+https://gonzalezgouveia.com/como-usar-numpy-en-python-curso-python-data-science-espanol/
